@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0
+}
+.menu a{
+  margin-left: 150px
+}
+.img{
+  margin-left: 20px
+}
+.btn{
+  background-color: #ff2d55;
+  margin: 106px 0 50px 500px;
+  border-radius: 180px;
+
+}
+.images img{
+  width: 600px;
+  margin: 50px 0 0 270px;
+}
+.images{
+  background:url("images/bg.png");
+  margin-top: 25px;
+  background-size: cover;
+  background-position: center;
+}
+.inteligentny p{
+  width: 200px;
+
+}
+.inteligentny img{
+  margin-top: 30px;
+  width: 70px;
+  height: 80px
+}
+.team p{
+  width: 200px
+}
+.team img{
+  margin-top: 50px
+}
+.footer{
+  background-color: #0149a1;
+  margin: 0;
+  padding: 0
+}
+.footer ul li {
+  list-style-type: none;
+  color: white
+}
+.down{
+  margin-left: 300px
+}
